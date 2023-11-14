@@ -1,2 +1,0 @@
-# condicion.github.io
-condicion
